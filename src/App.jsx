@@ -1,9 +1,9 @@
-import './App.css'
-
+// import './App.css'
+import Chai from './chai'
 function App() {
 
   return (
-    <h1>My name is Bhoomika Gautam</h1>
+    <Chai/>
   )
 }
 
